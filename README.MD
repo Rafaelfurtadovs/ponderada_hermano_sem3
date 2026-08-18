@@ -3,7 +3,7 @@
 **Aluno:** Rafael Furtado  
 **Projeto de referência:** G01 — Central de Pesquisas do Sindusfarma  
 **Cubo selecionado:** Cubo 1 — Ciclo de Vida da Pesquisa  
-**Interação com IA Generativa:** [registro da interação e reconstrução pedagógica do debate](./INTERACAO_IA.md)
+**Interação com IA Generativa:** [registro da interação e reconstrução pedagógica do debate](./INTERACAO_IA.MD)
 
 ## 1. Contexto e pergunta analítica
 
